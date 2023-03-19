@@ -1,14 +1,12 @@
 # About DATEIFY
-Our Webapp is an online dating platform with simple and cool :innocent: UI where user can explore and find their best matches :sparkling_heart:.\
-Our app contains various features like Login/Signup with google , users can upload their pictures , Like and Super like buttons :star_struck:.\
-and we are also working on some more features like live chat and audio/video calling which are enable within some days. We will do this work very soon and after this we will host our app!!
+This project is based on a music payer app with the features includes Google Login/Signup,Email Authentication,features like queue,playlist,liked Songs and shuffle,repeat for the audio player and many more has been implemented.
 <br>
 We are attaching some photo of our Webapp how it looks like after hosting.<br>
 
-<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(288).png" width="370px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(287).png" width="370px" height="300px"><br>
-<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(281).png" width="370px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(282).png" width="370px" height="300px"><br>
-<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(283).png" width="370px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(284).png" width="370px" height="300px"><br>
-<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(285).png" width="370px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(286).png" width="370px" height="300px"><br>
+<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(288).png" width="350px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(287).png" width="350px" height="300px"><br>
+<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(281).png" width="350px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(282).png" width="350px" height="300px"><br>
+<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(283).png" width="350px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(284).png" width="350px" height="300px"><br>
+<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(285).png" width="350px" height="300px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Siddharth7899/MusixON/blob/main/MusixON%20photos/Screenshot%20(286).png" width="350px" height="300px"><br>
 This app is fully based on react.js for frontend and node.js,mongoose and mongoDB for backend and database.
 
 Created with Love :heart:
